@@ -42,12 +42,14 @@ Once you have been a member of SYN Shop for a while, and feel like you are reall
 To become a vetted member, you will need to submit an application that has been signed by other Vetted Members to sponsor you. Your application will then be reviewed by the board of directors for approval at the next Monthly Board Meeting. The board would love to give everyone vetted membership immediately, but we want to make sure you are going to help protect the reputation of SYN Shop, and actively participate in building an awesome community of Makers with passion.
 
 #### Drop-in Memberships
-We don't have drop-in memberships at this time, but we are always willing to give a tour of the space during normal operating hours. Classes are always open to the public.
+We don't offer day passes and we don't pro-rate a month membership if you cancel it early. However, you're welcome to join on the spot and do your project and cancel your membership that same day if the $50/mo cost seems reasonable.  
 
 #### Collaboration with Non SYN Shop Members
 Hey, we know that from time to time you will be working on a project that involves non SYN Shop members. When doing so, you are welcome to host up to two guests. We do kindly ask that they consider giving a general donation to SYN Shop (or become members) if they are going to be using the space a considerable amount during this time.
 
-#### Liability Wavier
+Anyone working with you must sign a liability waivier (see below).
+
+#### Liability Waivier
 Please print, sign, and return [this waiver to SYN Shop](/assets/pdf/SYN_Shop_Liability_Waiver_Members.pdf).  You can submit it by either emailing a scanned copy to <a href="mailto:info@synshop.org">info@synshop.org</a> or bring it down to the shop and we'll file it away for you.
 
 #### <a name="TCHeader"></a>Tool Certifications
