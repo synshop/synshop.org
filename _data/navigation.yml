@@ -7,7 +7,7 @@ main:
   - title: "Events"
     url: /events/
   - title: "Equipment"
-    url: /equipment/
+    url: https://rtfm.synshop.org/Equipment/
   - title: "RTFM"
     url: https://rtfm.synshop.org/
   - title: "About"
