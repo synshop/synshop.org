@@ -21,4 +21,4 @@ order: 40
 
 We have a [ShopBot PRSstandard CNC 96-48](https://www.shopbottools.com/products/standard) available for use.
 
-Please make sure you have a [waiver on file](/membership#liability-wavier) and have been certified for this particular tool!
+Please make sure you have a [waiver on file](/membership#liability-waiver) and have been certified for this particular tool!

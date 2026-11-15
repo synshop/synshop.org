@@ -19,4 +19,4 @@ order: 20
 
 ## Band Saw
 
-Please make sure you have a [waiver on file](/membership#liability-wavier) and have been certified for this particular tool!
+Please make sure you have a [waiver on file](/membership#liability-waiver) and have been certified for this particular tool!
